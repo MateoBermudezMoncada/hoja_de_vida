@@ -1,0 +1,22 @@
+h1 {
+    color: rgb(0, 0, 160);
+    background-color: antiquewhite;
+}
+p {
+    color: darkblue;
+}
+h2 {
+    background-color: antiquewhite;
+}
+fieldset{
+    background-color: antiquewhite;
+}
+table {
+    background-color: antiquewhite;
+}
+td {
+    color: blue;
+}
+section {
+    background-color: rgb(255, 211, 206);
+}
